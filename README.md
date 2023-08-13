@@ -9,10 +9,10 @@ the goal is to predict how many medals a country will earn  based on historical 
 in this project , i follow the 7 steps from [Dataquest](https://www.youtube.com/@Dataquestio) provided by VikParuchuri : 
     1.Form a hypothesis.
     2.Find and explore the data.
-    3.(If necessary) Reshape the data to predict your target.
+    3.(If necessary) Reshape the data to predict target.
     4.Clean the data for ML.
     5.Pick an error metric.
-    6.Split your data.
+    6.Split data.
     7.Train a model.
 
 ## Code
