@@ -17,7 +17,7 @@ in this project , i follow the 7 steps from [Dataquest](https://www.youtube.com/
 
 ## Code
 
-You can find the code for this project [here](https://github.com/kaouterHassani/Predicting-Olympic-Medal-Counts-with-Linear-Regression-Using-Historical-Data).
+You can find the code for this project [here](https://github.com/kaouterHassani/Predicting-Olympic-Medal-Counts-with-Linear-Regression-Using-Historical-Data/blob/main/Predicting-Olympic-Medal-Counts-with-Linear-Regression-Using-Historical-Data.ipynb).
 
 # Local Setup
 
